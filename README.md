@@ -3,14 +3,14 @@
 ## Laravel Personal Information (Portfolio)
 MRSBD is developed for Personal Information like portfolio built on Laravel 9
 
-### Login System
-![Screenshot_2](https://user-images.githubusercontent.com/107453434/176536061-312d9681-692b-412e-9380-8c8f19287332.jpg)
+### Profile View
+![Screenshot 2022-07-23 020518](https://user-images.githubusercontent.com/107453434/180613680-50d138f4-557f-4ca1-af4f-12402d5e6779.png)
 
-### Dashboard
-![Screenshot_8](https://user-images.githubusercontent.com/107453434/178939364-183e122a-3e17-421d-9fa1-5f9e7cf1a529.jpg)
+### Home-Card (About Management)
+![Screenshot 2022-07-23 020305](https://user-images.githubusercontent.com/107453434/180613757-4a5d072c-c702-4f85-aa5f-dab53082828d.png)
 
-### User Profile
-![Screenshot_9](https://user-images.githubusercontent.com/107453434/178939503-eae4c2d6-55e0-4fc7-8078-6a88641f0c6f.jpg)
+### Home-Experiance (Resume Management)
+![Screenshot 2022-07-23 020355](https://user-images.githubusercontent.com/107453434/180613854-7960fa12-c1a1-4c3e-a2f0-69a7a57399ab.png)
 
 ### Credit Customer Due
 ![Screenshot_10](https://user-images.githubusercontent.com/107453434/178939658-321a4023-99ad-43bc-915c-5857dc6c86de.jpg)
