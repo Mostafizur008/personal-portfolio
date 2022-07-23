@@ -25,7 +25,7 @@ MRSBD is developed for Personal Information like portfolio built on Laravel 9
 ![Screenshot 2022-07-23 020212](https://user-images.githubusercontent.com/107453434/180614170-d141c8e3-f106-4051-ae8a-053a4c6d9bd7.png)
 
 ## Requirements
-Check Laravel 9 Requirements https://laravel.com/docs/9.20
+Check Laravel 9 Requirements https://laravel.com/docs/9.x
 
 ## Installation
 - Install dependencies (composer install)<br>
