@@ -3,7 +3,7 @@
 ## Laravel Personal Information (Portfolio)
 MRSBD is developed for Personal Information like portfolio built on Laravel 9
 
-### Profile View
+## Profile View (Backend)
 ![Screenshot 2022-07-23 020518](https://user-images.githubusercontent.com/107453434/180613680-50d138f4-557f-4ca1-af4f-12402d5e6779.png)
 
 ### Home-Card (About Management)
@@ -12,11 +12,11 @@ MRSBD is developed for Personal Information like portfolio built on Laravel 9
 ### Home-Experiance (Resume Management)
 ![Screenshot 2022-07-23 020355](https://user-images.githubusercontent.com/107453434/180613854-7960fa12-c1a1-4c3e-a2f0-69a7a57399ab.png)
 
-### Credit Customer Due
-![Screenshot_10](https://user-images.githubusercontent.com/107453434/178939658-321a4023-99ad-43bc-915c-5857dc6c86de.jpg)
+### Home-Skill (Resume Management)
+![Screenshot 2022-07-23 020433](https://user-images.githubusercontent.com/107453434/180613945-fe41a0e2-b545-415a-82bb-f9bebe6dc3a3.png)
 
-### Purchase List
-![Screenshot_11](https://user-images.githubusercontent.com/107453434/178939823-36a8a82c-af12-4ea8-b324-7d2f8bdf34ee.jpg)
+## Home-Card (Frontend)
+![Screenshot 2022-07-23 014150](https://user-images.githubusercontent.com/107453434/180614028-141f3781-aa79-4bac-bb93-578bfd0bf02c.png)
 
 ### Purchase Add
 ![Screenshot_12](https://user-images.githubusercontent.com/107453434/178939988-54cbfdc6-5b88-4853-89e8-8a82d46c3b26.jpg)
