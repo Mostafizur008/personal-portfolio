@@ -18,20 +18,14 @@ MRSBD is developed for Personal Information like portfolio built on Laravel 9
 ## Home-Card (Frontend)
 ![Screenshot 2022-07-23 014150](https://user-images.githubusercontent.com/107453434/180614028-141f3781-aa79-4bac-bb93-578bfd0bf02c.png)
 
-### Purchase Add
-![Screenshot_12](https://user-images.githubusercontent.com/107453434/178939988-54cbfdc6-5b88-4853-89e8-8a82d46c3b26.jpg)
+### Home-Experiance (Resume Management)
+![Screenshot 2022-07-23 014852](https://user-images.githubusercontent.com/107453434/180614128-d6b59a07-4d38-40df-a2ef-95defd95d6f7.png)
 
-### Purchase Approve
-![Screenshot_13](https://user-images.githubusercontent.com/107453434/178940091-1e3187f1-5170-4b84-81ac-3902ff379468.jpg)
-
-### Invoice List
-![Screenshot_14](https://user-images.githubusercontent.com/107453434/178940267-bdeee077-42c0-4515-91fe-d74fa8a5739c.jpg)
-
-### Invoice Add
-![Screenshot_15](https://user-images.githubusercontent.com/107453434/178940467-fa8951c9-9b43-4ebe-b6e7-b4560a9a0168.jpg)
+### Home-Project (Work Management)
+![Screenshot 2022-07-23 020212](https://user-images.githubusercontent.com/107453434/180614170-d141c8e3-f106-4051-ae8a-053a4c6d9bd7.png)
 
 ## Requirements
-Check Laravel 9 Requirements https://laravel.com/docs/9.x
+Check Laravel 9 Requirements https://laravel.com/docs/9.20
 
 ## Installation
 - Install dependencies (composer install)<br>
